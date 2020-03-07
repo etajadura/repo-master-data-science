@@ -1,0 +1,10 @@
+/.project
+/.pydevproject
+*.pyc
+*.idea/
+artifacts/
+*.properties
+hostedZones/
+*.csv
+.DS_Store
+/.vscode
