@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "repo-master-data-science"
+version = "0.1.0"
+description = ""
+authors = ["Elena Tajadura <elena.tajadura@adevinta.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+jupyterlab = "^3.4.7"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
